@@ -1,4 +1,3 @@
-
 /**
  * Transitionize 0.0.3
  * https://github.com/abpetkov/transitionize
@@ -16,7 +15,7 @@
  * Expose `Transitionize`.
  */
 
-module.exports = Transitionize;
+//module.exports = Transitionize;
 
 /**
  * Initialize new Transitionize.
